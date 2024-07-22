@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Open Source",
+      "organisation": "Github-Hacktoberfest",
+      "startDate": "October, 2022",
+      "endDate": "October, 2022",
+      "experiences": ["Contributed to open-source projects on github showcasing understanding of github fundamentals"],
+      "imageSrc": "history/github.png"
+    },
+    {
+      "role": "Technical Blogs",
+      "organisation": "Medium",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Written several technical blogs", "Blogs on Android and Web Development"],
+      "imageSrc": "history/medium.png"
+    },
+    {
+      "role": "Technical Support",
+      "organisation": "Youthopia- DIT",
+      "startDate": "Nov, 2022",
+      "endDate": "Nov, 2022",
+      "experiences": [
+        "Worked on creating UI/UX for the website and app of college fest",
+        "Helped create UI components on figma"
+      ],
+      "imageSrc": "history/design.png"
+    }
+  ]
