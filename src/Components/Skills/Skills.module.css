@@ -44,7 +44,7 @@
 }
 .skillImageContainer img{
     width: 75px;
-    transition: transform 0.6s;
+    transition: transform 0.3s;
     transform-style: preserve-3d;
     backface-visibility: hidden;
 }
@@ -67,5 +67,14 @@
         flex-direction: row;
         justify-content: center;
         
+    }
+    .skillImageContainer img{
+        width: 75px;
+        transition: transform 0.3s;
+        transform-style: preserve-3d;
+        backface-visibility: hidden;
+    }
+    .skillImageContainer:hover img{
+        transform: rotateY(45deg);
     }
 }
