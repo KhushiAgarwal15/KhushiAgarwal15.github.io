@@ -4,21 +4,21 @@
       "imageSrc": "projects/game.png",
       "description": "Developed word-guessing game where players try to identify a hidden word by suggesting letters.",
       "skills": ["HTML", "CSS", "JavaScript"],
-      "source": "https://github.com/KhushiAgarwal15/HangMan"
+      "source": "https://hangmangame-gamma.vercel.app/"
     },
     {
       "title": "Weather",
       "imageSrc": "projects/weather.png",
       "description": "Developed a weather application using weather API to provide real-time weather updates.",
       "skills": ["CSS", "React.js"],
-      "source": "https://github.com/KhushiAgarwal15/Weather"
+      "source": "https://weather-seven-nu-21.vercel.app/"
     },
     {
       "title": "Portfolio Website",
       "imageSrc": "projects/portfolio.png",
       "description": "Developed a personal portfolio website project showcasing my skills, projects, and professional experience.",
       "skills": ["React", "Express", "Node"],
-      "source": "https://www.github.com"
+      "source": "https://portfolio-website-u9bf.vercel.app/"
     }
   ]
 

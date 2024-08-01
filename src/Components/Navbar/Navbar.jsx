@@ -28,10 +28,10 @@ export const Navbar = () => {
             <a href="#about">About</a>
           </li>
           <li>
-            <a href="#experience">Experience</a>
+            <a href="#skills">Skills</a>
           </li>
           <li>
-            <a href="#skills">Skills</a>
+            <a href="#experience">Experience</a>
           </li>
           <li>
             <a href="#projects">Projects</a>
@@ -41,6 +41,10 @@ export const Navbar = () => {
           </li>
         </ul>
       </div>
+      <div
+        className={`${styles.overlay} ${menuOpen ? styles.overlayVisible : ""}`}
+        onClick={() => setMenuOpen(false)}
+      ></div>
     </nav>
   );
 };
